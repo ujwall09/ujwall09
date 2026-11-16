@@ -1,9 +1,9 @@
 ## Hi there 👋
 <!-- Replace every YOUR_... placeholder. Save this as README.md in a PUBLIC repo named exactly YOUR_USERNAME -->
 
-# Hey 👋, I'm YOUR_NAME
+# Hey 👋, I'm ujwal chapped
 
-### YOUR_ROLE • YOUR_FOCUS • YOUR_THIRD_TAG
+Developer • Coder • AI-augmented software engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=blue)
@@ -15,7 +15,7 @@
 
 ---
 
-YOUR_STATUS (e.g. Computer Science student • Full-stack developer)
+YOUR_STATUS (e.g. Computer Science student • Software developer)
 
 Two or three sentences about what you build, what you are exploring, and what you enjoy.
 
