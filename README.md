@@ -7,11 +7,10 @@ Developer • Coder • AI-augmented software engineer
 
 MY_STATUS Computer Science student • Software developer
 
-Two or three sentences about what you build, what you are exploring, and what you enjoy.
 
 ## ⚡ Reach Out
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujwal-chapped-0aa769339/)
 [![Email](https://img.shields.io/badge/Gmail-Open_for_Collaboration-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ## 🛠️ Tech Stack
