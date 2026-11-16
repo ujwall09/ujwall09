@@ -11,7 +11,7 @@ MY_STATUS Computer Science student • Software developer
 ## ⚡ Reach Out
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujwal-chapped-0aa769339/)
-[![Email](https://img.shields.io/badge/Gmail-Open_for_Collaboration-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujwalchapped1@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Open_for_Collaboration-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujwalchapped1@email.com)
 
 ## 🛠️ Tech Stack
 
