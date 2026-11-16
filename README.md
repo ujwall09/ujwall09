@@ -10,7 +10,7 @@ Developer • Coder • AI-augmented software engineer
 ![Focus](https://img.shields.io/badge/Focus-YOUR_FOCUS-brightgreen?style=for-the-badge)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=LINE+ONE;LINE+TWO;LINE+THREE" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines="AI+Augmented+Engineer;"  alt="Typing animation" />
 </p>
 
 ---
