@@ -5,13 +5,7 @@
 
 Developer • Coder • AI-augmented software engineer
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines="AI+Augmented+Engineer;"   />
-</p>
-
----
-
-YOUR_STATUS (e.g. Computer Science student • Software developer)
+MY_STATUS Computer Science student • Software developer
 
 Two or three sentences about what you build, what you are exploring, and what you enjoy.
 
